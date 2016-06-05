@@ -10,6 +10,9 @@ By solving for individual parameters, the equations can answer questions such as
 2. "How do I know when my alignment is "Good Enough?"
 3. "What is the longest exposure time I can use before star trails become evident."
 
+###Using It
+The whole program is one executable.  You do not need any sort of installer.  If you just want to run the program, download the executable and run it.  Or, you can download the code and build it.
+
 ##Here is some basic information on the parameters:
 
 ### Focal Length
