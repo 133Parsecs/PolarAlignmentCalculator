@@ -1,4 +1,4 @@
-#Welcome to the PolarAlignmentCalculator wiki!
+#Welcome to the PolarAlignmentCalculator
 
 This is a simple calculator to compute polar alignment based on given parameters.  It is based on Frank Barrett's 2008 paper.
 
