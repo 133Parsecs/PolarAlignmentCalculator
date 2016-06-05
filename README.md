@@ -30,3 +30,6 @@ This is how much the field, in microns, is going to rotate given the other param
 
 ###Declination of Target
 This is another factor that often seems to be overlooked.  The higher the declination, the less tolerance there is in polar alignment. Barrett's paper discusses this phenomena.
+
+###References
+Barret, http://celestialwonders.com/articles/polaralignment/PolarAlignmentAccuracy.pdf
