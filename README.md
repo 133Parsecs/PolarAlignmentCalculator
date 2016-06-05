@@ -3,7 +3,7 @@
 This is a simple calculator to compute polar alignment based on given parameters.  It is based on Frank Barrett's 2008 paper.
 
 The paper is based on "Hook's Method" from the February 1989 issue of the Journal of the British Astronomical Society.
-In it, Hook " ...derived a number of equations which showed how far a star would drift on an unguided mount and the alignment tolerances required to hold field rotation to within a given limit."
+In it, Hook " ...derived a number of equations which showed how far a star would drift [...] and the alignment tolerances required to hold field rotation to within a given limit."
 
 By solving for individual parameters, the equations can answer questions such as: 
 1. "What is my polar alignment error"
