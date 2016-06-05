@@ -71,26 +71,12 @@ namespace ApCalculator.GUI
 
 
 
-        //private void cmdSolveForMaxAlignmentError_Click(object sender, EventArgs e)
-        //{
-        //    ParseTextBoxes();
-        //    lblTau.Text = Tau.ToString();
-        //    lblDeltaLC.Text = delta.ToString();
-        //    lblt.Text = t.ToString();
-        //    lblF.Text = F.ToString();
-        //    lblDeltaUC.Text = Delta.ToString();
-
-        //    double result = SolveForDeltaErr();
-        //    //txtResultSolvForMaxAlignmentError.Text = result.ToString();
-        //    txtThetaMax.Text = result.ToString();
-
-        //}
-
 
 
         public Form1()
         {
             InitializeComponent();
+            lnkPDF.Links.Add(0, 10, "http://www.ibm.com");
         }
 
 
