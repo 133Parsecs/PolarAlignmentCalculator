@@ -12,6 +12,7 @@ By solving for individual parameters, the equations can answer questions such as
 
 ###Using It
 The whole program is one executable.  You do not need any sort of installer.  If you just want to run the program, download the executable and run it.  Or, you can download the code and build it.
+You may need to right click on the exe and select "Unblock" before windows will let you run it.
 
 ##Here is some basic information on the parameters:
 
